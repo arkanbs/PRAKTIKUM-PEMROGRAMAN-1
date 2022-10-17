@@ -1,0 +1,1 @@
+print ("\nSaya Calon Programmer No. 1\n")
