@@ -1,0 +1,6 @@
+a1,b1,i1,j1,x1,y1=map(float,input().split())
+print("%.3f"%(float((a1-b1)*(i1/j1)-(x1+y1))))
+a2,b2=map(float,input().split())
+i2,j2=map(float,input().split())
+x2,y2=map(float,input().split())
+print("%.3f"%(float((a2-b2)*(i2/j2)-(x2+y2))))
